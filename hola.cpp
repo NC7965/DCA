@@ -8,4 +8,5 @@ int main () {
 	cout << "Fallo 1" << endl;
 	cout << "Adicion 2" << endl;
 	cout << "Adicion 3" << endl;
+	cout << "Adicion post-commit" << endl;
 } 
